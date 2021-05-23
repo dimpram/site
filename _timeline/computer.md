@@ -10,30 +10,18 @@ events:
   - pdp1-mini
   - ibm2471
   - sketchpad
+  - eliza-chat-bot
   - nls
   - pdp11-tty-unix
-  - genesys
   - dynabook
   - smalltalk
   - children-alto
-  - plato4
-  - vt100
-  - dtp
-  - cad
-  - xerox-bravo
   - xerox-star-pc
-  - xerox-star-genealogy
-  - bell-nomograph
   - apple-i-computer
-  - apple-macintosh-1984
+  - videoplace
+  - vpl-virtual-reality
   - apple-newton
-  - squeakos
-  - sugar-neighborhood
-  - weiser-profile
-  - tabs-pads-boards
-  - arduino_uno
+  - weiser-tab-pad-board
   - arduino-lilypad
   - digital-desk
-  - mobile
-  - apple-smartwatch
 ---
